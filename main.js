@@ -8,6 +8,7 @@ class Classic{
     thing.style.width = '1000px'
     thing.style.height = '1000px'
     thing.style.backgroundColor = 'red'
+    thing.style.background = Classic.art_url
     document.body.appendChild(thing)
     this.art_url = ''
   }
