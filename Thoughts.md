@@ -6,5 +6,6 @@ Hopefully this isn't a copy paste since...
 1. I didn't want to leave you guys with nothing at all.
 2. I wouldn't know how to do it another way.
 3. I don't want to give in late work.
+4. I was trying to follow along with what Michael was doing 
 
 It's not like I was paying attention or anything, this is just a very foreign topic for me. Unless there is something that I'm missing, then by all means, remind me.
