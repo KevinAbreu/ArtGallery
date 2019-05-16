@@ -10,6 +10,6 @@ class Classic{
     thing.style.backgroundColor = 'red'
     thing.style.background = Classic.art_url
     document.body.appendChild(thing)
-    this.art_url = ''
+    // this.art_url = ''
   }
 }
