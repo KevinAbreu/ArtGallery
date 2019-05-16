@@ -1,0 +1,3 @@
+I'm completely lost when it comes to Classes even though Michael has done the first part of the workshop . However, it doesn't mean that this is the end of the road for me. There are ways for me to figure this out if I look hard enough. In addition to the lessons, I want to see if I can study OOP (Object Oriented Programming) via the Eloquent Javascript book that we were suggested to read over the weekend.
+
+Sorry to have let you down like this, but it seems I can't hack this one this time. I usually have a vague understanding of things that I am taught and I eventually get it, but this is a whole new enchilada that I need to delve deeper upon.
